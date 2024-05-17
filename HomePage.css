@@ -1,0 +1,54 @@
+.background {
+    background-color: #28231D;    
+}
+
+.TopBarDiv {
+    width: 2540px;
+    height: 200px;
+    background-color: black;
+}
+
+.icon1 {
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.text1 {
+    color: black;
+    margin-left: 200px;
+    margin-top: -90px;
+    width: 80px;
+    background-color: #fff5ec;
+    height: 20px;
+    text-align: center;
+}
+
+.text1:hover {
+    color: black;
+    margin-left: 200px;
+    margin-top: -90px;
+    width: 80px;
+    background-color: blue;
+    height: 20px;
+    text-align: center;
+}
+
+.text10 {
+    color: black;
+    margin-left: 270px;
+    width: 80px;
+    background-color: #fff5ec;
+    height: 20px;
+    text-align: center;
+}
+
+.text10:hover {
+    color: black;
+    margin-left: 270px;
+    width: 80px;
+    background-color: blue;
+    height: 20px;
+    text-align: center;
+}
